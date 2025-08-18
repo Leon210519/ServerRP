@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:range_dispatch","property":"minecraft:custom_model_data","index":0,"entries":[{"threshold":4002.0,"model":{"type":"minecraft:model","model":"item/omega_harvester"}},{"threshold":4003.0,"model":{"type":"minecraft:model","model":"item/netherite_hoe"}}],"fallback":{"type":"minecraft:model","model":"item/netherite_hoe"}}}

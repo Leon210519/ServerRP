@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:range_dispatch","property":"minecraft:custom_model_data","index":0,"entries":[{"threshold":4003.0,"model":{"type":"minecraft:model","model":"item/omega_pickaxe"}},{"threshold":4004.0,"model":{"type":"minecraft:model","model":"item/netherite_pickaxe"}}],"fallback":{"type":"minecraft:model","model":"item/netherite_pickaxe"}}}
